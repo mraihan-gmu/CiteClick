@@ -62,16 +62,12 @@ CiteClick is a browser extension that lets you effortlessly monitor Google Schol
 - Developer mode enabled in your browser
 
 ### Steps
-1. **Download the Extension**
-   - Go to the [releases page](https://github.com/yourusername/citeclick/releases)
-   - Download the latest `citeclick-vX.X.X.zip` file
-
-2. **Unzip the File**
+1. **Unzip the File**
    - Right-click the downloaded ZIP file
    - Select "Extract All" (Windows) or "Unzip" (Mac)
    - Choose a destination folder
 
-3. **Load the Extension**
+2. **Load the Extension**
    - Open your browser's extension management page:
      - Chrome: Navigate to `chrome://extensions`
      - Edge: Navigate to `edge://extensions`
@@ -80,7 +76,7 @@ CiteClick is a browser extension that lets you effortlessly monitor Google Schol
    - Click "Load unpacked" (usually in the top left)
    - Select the folder where you unzipped CiteClick
 
-4. **Verify Installation**
+3. **Verify Installation**
    - Look for the CiteClick icon in your browser toolbar
    - If you don't see it, click the puzzle piece icon and pin CiteClick
 
