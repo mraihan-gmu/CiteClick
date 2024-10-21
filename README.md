@@ -7,7 +7,7 @@
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/yourusername/citeclick)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-[![arXiv](https://img.shields.io/badge/arXiv-Read_Paper-blue?style=for-the-badge&logo=arxiv)](https://your-arxiv-link-here.com) 
+[![arXiv](https://img.shields.io/badge/arXiv-Read_Report-blue?style=for-the-badge&logo=arxiv)](https://your-arxiv-link-here.com) 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:example.com)
 
 
