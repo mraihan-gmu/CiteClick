@@ -13,9 +13,11 @@
 
 ## 🚀 Quick Access to Google Scholar Citations
 
+</div>
+
 CiteClick is a browser extension that lets you effortlessly monitor Google Scholar citation counts for multiple researchers. Stay up-to-date with the latest impact of your favorite scholars!
 
-</div>
+
 
 ---
 
@@ -23,13 +25,15 @@ CiteClick is a browser extension that lets you effortlessly monitor Google Schol
 
 ## 🌟 Features
 
+</div>
+
 - 📊 Real-time citation counts
 - 👥 Track multiple researchers
 - 🏆 Ranking system for quick comparisons
 - 🔄 One-click updates
 - 💾 Local storage for offline access
 
-</div>
+
 
 ---
 
@@ -37,11 +41,13 @@ CiteClick is a browser extension that lets you effortlessly monitor Google Schol
 
 ## ⚡ Quick Installation
 
+</div>
+
 1. Download the [latest release](https://github.com/yourusername/citeclick/releases/latest)
 2. Unzip the file
 3. Load it in your browser (see detailed steps below)
 
-</div>
+
 
 ---
 
@@ -82,13 +88,15 @@ CiteClick is a browser extension that lets you effortlessly monitor Google Schol
 
 <div align="center">
 
+</div>
+
 ## 🖱 How to Use
 
 1. Click the CiteClick icon in your browser toolbar
 2. View the list of tracked scholars and their citation counts
 3. Click "Update Citations" to refresh the data
 
-</div>
+
 
 ---
 
@@ -117,6 +125,8 @@ const config = {
 
 ## 🤝 Contributing
 
+</div>
+
 We welcome contributions! Please follow these steps:
 
 1. Fork the repository
@@ -125,7 +135,7 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
-</div>
+
 
 ---
 
@@ -133,6 +143,8 @@ We welcome contributions! Please follow these steps:
 
 ## 📜 License
 
+</div>
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-</div>
+
