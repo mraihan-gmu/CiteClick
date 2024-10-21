@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CiteClick</title>
+  <style>
+    body {
+      width: 350px;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      font-size: 14px;
+    }
+    h2 {
+      color: #4285F4;
+      text-align: center;
+      margin-bottom: 20px;
+      font-size: 20px;
+    }
+    #scholarList {
+      background-color: white;
+      border-radius: 8px;
+      padding: 15px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      max-height: 400px;
+      overflow-y: auto;
+    }
+    .scholar {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    .scholar:last-child {
+      border-bottom: none;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+    .scholarRank {
+      font-weight: bold;
+      margin-right: 10px;
+      min-width: 30px;
+    }
+    .scholarName {
+      flex-grow: 1;
+    }
+    .scholarName.highlight {
+      color: green;
+      font-weight: bold;
+    }
+    .citationCount {
+      font-weight: bold;
+      color: #4285F4;
+    }
+    #updateButton {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-top: 20px;
+      background-color: #4285F4;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: background-color 0.3s;
+    }
+    #updateButton:hover {
+      background-color: #3367D6;
+    }
+  </style>
+</head>
+<body>
+  <h2>Scholar Citation Counter</h2>
+  <div id="scholarList"></div>
+  <button id="updateButton">Update Citations</button>
+  <script src="popup.js"></script>
+</body>
+</html>
