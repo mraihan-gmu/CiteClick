@@ -47,7 +47,7 @@ CiteClick is a browser extension that lets you effortlessly monitor Google Schol
 
 </div>
 
-1. Download the [latest release](https://github.com/yourusername/citeclick/releases/latest)
+1. Download the [latest release](https://github.com/mraihan-gmu/CiteClick/tree/main)
 2. Unzip the file
 3. Load it in your browser (see detailed steps below)
 
