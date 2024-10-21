@@ -53,6 +53,7 @@ const config = {
     // Add more Google Scholar IDs here
   ]
 };
+```
 
 ---
 
