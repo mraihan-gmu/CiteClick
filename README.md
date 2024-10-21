@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🎓 CiteClick: Your Scholar Citation Companion 📚
 
 ![CiteClick Logo](icon128.png)
@@ -5,11 +7,19 @@
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/yourusername/citeclick)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+</div>
+
+<div align="center">
+
 ## 🚀 Quick Access to Google Scholar Citations
 
 CiteClick is a browser extension that lets you effortlessly monitor Google Scholar citation counts for multiple researchers. Stay up-to-date with the latest impact of your favorite scholars!
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌟 Features
 
@@ -19,19 +29,58 @@ CiteClick is a browser extension that lets you effortlessly monitor Google Schol
 - 🔄 One-click updates
 - 💾 Local storage for offline access
 
----
-
-## 🛠 Installation
-
-1. Clone this repository or download the ZIP file
-2. Open your browser's extension management page
-   - Chrome: `chrome://extensions`
-   - Edge: `edge://extensions`
-   - Firefox: `about:addons`
-3. Enable "Developer mode"
-4. Click "Load unpacked" and select the extension directory
+</div>
 
 ---
+
+<div align="center">
+
+## ⚡ Quick Installation
+
+1. Download the [latest release](https://github.com/yourusername/citeclick/releases/latest)
+2. Unzip the file
+3. Load it in your browser (see detailed steps below)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠 Detailed Installation Guide
+
+</div>
+
+### Prerequisites
+- A Chromium-based browser (e.g., Google Chrome, Microsoft Edge, Brave)
+- Developer mode enabled in your browser
+
+### Steps
+1. **Download the Extension**
+   - Go to the [releases page](https://github.com/yourusername/citeclick/releases)
+   - Download the latest `citeclick-vX.X.X.zip` file
+
+2. **Unzip the File**
+   - Right-click the downloaded ZIP file
+   - Select "Extract All" (Windows) or "Unzip" (Mac)
+   - Choose a destination folder
+
+3. **Load the Extension**
+   - Open your browser's extension management page:
+     - Chrome: Navigate to `chrome://extensions`
+     - Edge: Navigate to `edge://extensions`
+     - Brave: Navigate to `brave://extensions`
+   - Enable "Developer mode" (usually a toggle in the top right)
+   - Click "Load unpacked" (usually in the top left)
+   - Select the folder where you unzipped CiteClick
+
+4. **Verify Installation**
+   - Look for the CiteClick icon in your browser toolbar
+   - If you don't see it, click the puzzle piece icon and pin CiteClick
+
+---
+
+<div align="center">
 
 ## 🖱 How to Use
 
@@ -39,11 +88,17 @@ CiteClick is a browser extension that lets you effortlessly monitor Google Schol
 2. View the list of tracked scholars and their citation counts
 3. Click "Update Citations" to refresh the data
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🎨 Customization
 
 Want to track different scholars? Edit the `config.js` file:
+
+</div>
 
 ```javascript
 const config = {
@@ -57,6 +112,9 @@ const config = {
 
 ---
 
+
+<div align="center">
+
 ## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
@@ -67,8 +125,14 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+</div>
